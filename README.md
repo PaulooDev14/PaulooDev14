@@ -1,6 +1,3 @@
-<h1 align="center">👋 Fala, eu sou o Paulo</h1>
-
----
 
 <h2>Sobre mim</h2>
 
